@@ -1,0 +1,15 @@
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/bin/Debug/net7.0/pin-ja-puk-koodi
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/bin/Debug/net7.0/pin-ja-puk-koodi.deps.json
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/bin/Debug/net7.0/pin-ja-puk-koodi.runtimeconfig.json
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/bin/Debug/net7.0/pin-ja-puk-koodi.dll
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/bin/Debug/net7.0/pin-ja-puk-koodi.pdb
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/obj/Debug/net7.0/pin-ja-puk-koodi.csproj.AssemblyReference.cache
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/obj/Debug/net7.0/pin-ja-puk-koodi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/obj/Debug/net7.0/pin-ja-puk-koodi.AssemblyInfoInputs.cache
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/obj/Debug/net7.0/pin-ja-puk-koodi.AssemblyInfo.cs
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/obj/Debug/net7.0/pin-ja-puk-koodi.csproj.CoreCompileInputs.cache
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/obj/Debug/net7.0/pin-ja-puk-koodi.dll
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/obj/Debug/net7.0/refint/pin-ja-puk-koodi.dll
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/obj/Debug/net7.0/pin-ja-puk-koodi.pdb
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/obj/Debug/net7.0/pin-ja-puk-koodi.genruntimeconfig.cache
+/Users/s2200692/C-harjoitukset/pin-ja-puk-koodi/obj/Debug/net7.0/ref/pin-ja-puk-koodi.dll
